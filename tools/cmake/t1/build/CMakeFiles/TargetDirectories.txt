@@ -1,0 +1,3 @@
+/home/zanejins/mygit/cs-self-taught/tools/cmake/t1/build/CMakeFiles/hello.dir
+/home/zanejins/mygit/cs-self-taught/tools/cmake/t1/build/CMakeFiles/edit_cache.dir
+/home/zanejins/mygit/cs-self-taught/tools/cmake/t1/build/CMakeFiles/rebuild_cache.dir
