@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/src.dir/workerManager.cpp.o CMakeFiles/src.dir/manager.cpp.o CMakeFiles/src.dir/employee.cpp.o CMakeFiles/src.dir/boss.cpp.o -o src 
